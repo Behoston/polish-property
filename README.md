@@ -16,7 +16,7 @@
 - https://www.klikmapa.pl/
 - https://tabelaofert.pl/
 - https://mieszkania.trovit.pl/
-
+- https://www.oferty.net
 
 ## Tylko najem
 - https://www.wynajem.pl/
