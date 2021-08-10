@@ -3,6 +3,8 @@
 
 ## Sprzedaż/najem mieszkań/działek
 
+- https://www.otodom.pl
+- https://www.olx.pl
 - https://www.nieruchomosci-online.pl/
 - https://gethome.pl/
 - https://www.okolica.pl/
